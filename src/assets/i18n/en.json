@@ -1,0 +1,10 @@
+{
+    "labels":{
+        "enterEmail":"Enter Email",
+        "enterPassword": "Enter Password",
+        "loginSubmit": "Login"
+    },
+    "errors": {},
+    "warnings": {},
+    "notifications": {}
+}

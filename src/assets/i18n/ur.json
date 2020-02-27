@@ -1,0 +1,10 @@
+{
+  "labels":{
+    "enterEmail":"ای میل درج کریں",
+    "enterPassword": "پاس ورڈ درج کریں",
+    "loginSubmit": "لاگ ان"
+  },
+  "errors": {},
+  "warnings": {},
+  "notifications": {}
+}

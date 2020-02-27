@@ -1,0 +1,10 @@
+{
+    "labels":{
+        "enterEmail":"Ingrese correo electrónico",
+        "enterPassword": "Introducir la contraseña",
+        "loginSubmit": "iniciar sesión"
+    },
+    "errors": {},
+    "warnings": {},
+    "notifications": {}
+}

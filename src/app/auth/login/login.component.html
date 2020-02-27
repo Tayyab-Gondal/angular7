@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="form-container">
+    <form class="login-form" #loginForm="ngForm" (ngSubmit)="postData()">
+      <div class="form-group">
+        <input type="text" class="form-control" [(ngModel)]="model.email" name="email" placeholder="{{ 'labels.enterEmail' | translate }}">
+      </div>
+      <div class="form-group">
+        <input type="password" class="form-control" [(ngModel)]="model.password" name="password" placeholder="{{ 'labels.enterPassword' | translate }}">
+      </div>
+      <div class="form-group mb-0">
+        <button type="submit" class="btn btn-primary btn-block" name="submit" [translate]="'labels.loginSubmit'"></button>
+      </div>
+    </form>
+  </div>
+</div>
